@@ -10,3 +10,4 @@ String version=resource.getString("version");%>
 "Successfully for the first project using Maven"</h2>
 </body>
 </html>
+first job using CI-CD 
